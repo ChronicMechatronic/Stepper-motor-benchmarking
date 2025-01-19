@@ -9,9 +9,9 @@ There is some ambiguity about the rated current for this motor since the closest
 
 That being said, here are links to everything I found about them on the web:
 
-The random Google spreadsheet listing which printers these motors can be salvaged from: https://docs.google.com/spreadsheets/d/1TOAJp6hJdnVPc86Z5KwxvSGqu_2xwKQJDcFqrtlP1YU/htmlembed?single=true&gid=0&widget=false
-The (extremely slow) old website stating the specs: http://www.motors.wrobots.com/EM-258_17PM-K212-PIT.php
-And a sort of "datasheet" for the 17PM-K212-PIT: https://www.roboternetz.de/phpBB2/files/17pm-k212-p1t.pdf
+ - The random Google spreadsheet listing which printers these motors can be salvaged from: https://docs.google.com/spreadsheets/d/1TOAJp6hJdnVPc86Z5KwxvSGqu_2xwKQJDcFqrtlP1YU/htmlembed?single=true&gid=0&widget=false
+ - The (extremely slow) old website stating the specs: http://www.motors.wrobots.com/EM-258_17PM-K212-PIT.php
+ - And a sort of "datasheet" for the 17PM-K212-PIT: https://www.roboternetz.de/phpBB2/files/17pm-k212-p1t.pdf
 
 There are also exported PDF versions for each of these sites as a backup in case any of them goes down in the future.
 
