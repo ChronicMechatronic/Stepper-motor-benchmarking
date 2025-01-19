@@ -18,4 +18,4 @@ This repository contains all results and data from extensively testing the micro
  - HANPOSE 17HS4401
  - WANTAI MOTOR 42BYGHW609-1
 
-For information about my test procedure, watch the full video on my YouTube channel:
+For information about my test procedure and how to interpret the data, watch the [full video](https://www.youtube.com/watch?v=Vqqj7FCdkGw) on my YouTube channel
