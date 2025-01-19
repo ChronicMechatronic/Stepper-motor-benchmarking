@@ -1,6 +1,6 @@
 ## JAPAN SERVO KP39HM2-025
 
-[image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/JAPAN%20SERVO%20KP39HM2-025/(3)%20JAPAN%20SERVO%20KP39HM2-025.jpg)
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/JAPAN%20SERVO%20KP39HM2-025/(3)%20JAPAN%20SERVO%20KP39HM2-025.jpg)
 
 This motor is difficult. Apparently, it came from a 5 1/4-inch disk drive, so it must be quite old at this point - which explains why it was actually unipolar in its stock configuration. I disassembled mine and wired both sides of the center tap in each coil in parallel to reduce total phase resistance and inductance for use in a bipolar configuration. It's not quite the usual unipolar-to-bipolar mod, so here's an image for illustration:
 [improved unipolar-to-bipolar wiring configuration](link)
