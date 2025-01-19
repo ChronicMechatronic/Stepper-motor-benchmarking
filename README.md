@@ -3,7 +3,7 @@ Collection of all test results and data from thoroughly testing my collection of
 
 This repository contains all results and data from extensively testing the microstepping capabilities as well as any specifications I found online for each of the following stepper motors:
 
- - USONGSHINE US-4401S
+ - USONGSHINE US-17HS4401S
  - EPSON EM-257 / EM-258
  - JAPAN SERVO KP39HM2-025
  - EM-164 / STH-39D179-03 (unknown manufacturer)
