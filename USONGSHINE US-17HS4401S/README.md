@@ -1,6 +1,6 @@
 ## USONGSHINE US-17HS4401S
 
-![image of a stepper motor](/blob/main/USONGSHINE%20US-17HS4401S/(1)%20USONGSHINE%2017HS44001S.png)
+![image of a stepper motor](/(1)%20USONGSHINE%2017HS44001S.png)
 
 This is the Usongshine-branded version of the seemingly fairly popular 17HS4401. It's set apart from some of its competitors by the slightly lower rated current of 1.5A and higher phase resistance. 
 To my knowledge, the only difference between the 17HS4401 and the 17HS4401S version is the painted black endcaps as opposed to the usual cast aluminum look.
