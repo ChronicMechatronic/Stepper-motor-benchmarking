@@ -1,4 +1,4 @@
-The pictures starting with "IMG_20241223_[...]" are the completely unedited raw photos as I pulled them from the camera. 
+The pictures starting with "IMG_20241222_[...]" are the completely unedited raw photos as I pulled them from the camera. 
 
 The ones named just "JAPAN SERVO KP39HM2" followed by the drive voltage/current are straightened, cropped, and otherwise edited to make them more presentable.
 
