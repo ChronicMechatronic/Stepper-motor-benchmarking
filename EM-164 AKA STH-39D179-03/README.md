@@ -1,6 +1,6 @@
 ## EM-164 / STH-39D179-03
 
-[image of a stepper motor]()
+[image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/EM-164%20AKA%20STH-39D179-03/(4)%20EM-164.jpg)
 
 The provenance of this stepper is a mystery - as is pretty much the entire motor. I found no reference whatsoever to this stepper motor, not even an image of an exact match, which is kind of surprising. What I do know is that it used to be unipolar - I disassembled mine and wired both sides of the center tap in each coil in parallel to reduce total phase resistance and inductance for use in a bipolar configuration. It's not quite the usual unipolar-to-bipolar mod, so here's an image for illustration:
 [improved unipolar-to-bipolar wiring configuration](link)
