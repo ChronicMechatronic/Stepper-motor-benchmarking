@@ -17,3 +17,6 @@ Here are links to everything I found online about this motor:
 There are also exported PDF versions for each of these sites as a backup in case any of them goes down in the future.
 
 Intellectual property rights for any graphics and logos depicted in screenshots of those sites obviously go to their respective site owners and are not part of this open-source repository, as I have no rights to distribute these myself. (in other words, stating the obvious to make sure I cover my ass for legal purposes here: the fact that I'm sharing screenshots with these logos and graphics in them in a CC-BY-SA-4.0 repository doesn't mean the license extends to those graphics)
+
+I originally planned to use this motor in a 3D printer, so I made a pretty detailed CAD model for it. I included the .STEP file here, but you can also download it from my GrabCAD:
+ - https://grabcad.com/library/nema-16-stepper-motor-kp39hm2-025-1
