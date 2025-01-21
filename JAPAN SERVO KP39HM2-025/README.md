@@ -3,7 +3,7 @@
 ![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/JAPAN%20SERVO%20KP39HM2-025/(3)%20JAPAN%20SERVO%20KP39HM2-025.jpg)
 
 This motor is difficult. Apparently, it came from a 5 1/4-inch disk drive, so it must be quite old at this point - which explains why it was actually unipolar in its stock configuration. I disassembled mine and wired both sides of the center tap in each coil in parallel to reduce total phase resistance and inductance for use in a bipolar configuration. It's not quite the usual unipolar-to-bipolar mod, so here's an image for illustration:
-[improved unipolar-to-bipolar wiring configuration](link)
+![improved unipolar-to-bipolar wiring configuration](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/JAPAN%20SERVO%20KP39HM2-025/Improved%20unipolar-to-bipolar%20mod.png)
 
 Given that I ran my tests after doing these modifications to the motor, all the data you see here will obviously only apply to models of this stepper that underwent the same treatment (which I don't recommend doing, btw, as it turned out the air gap between the rotor and stator is only like 0.1mm all around, which means it's basically impossible to reassemble the motor without the rotor scraping against the stator laminations unless you have some very specific alignment tools at your disposal. That's something I didn't mention in the video.)
 
