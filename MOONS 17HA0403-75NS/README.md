@@ -1,6 +1,6 @@
 ## MOONS 17HA0403-75NS
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/MOONS%2017HA0403-75NS/(5)%20MOONS%2017HA0403-75NS.jpg)
 
 I really can't say what device this stepper motor is from - the brass pulley on it is not GT2 size though so for most DIY projects you'll probably have to remove it which is more than a little annoying. I recommend a hack saw to destroy the pulley as the easiest way to get it off - I wanted to keep the motor and the pulley intact so I had to machine a custom gear puller that actually fit in the tight gap between the motor housing and the pulley flange.
 
