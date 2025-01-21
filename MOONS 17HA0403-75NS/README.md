@@ -8,6 +8,7 @@ Fortunately I was able to find what I am relatively confident is the datasheet f
 
 - https://datasheet4u.com/datasheet-pdf/ETC/17HA0403-44N/pdf.php?id=977470
 - http://www.motionusa.com.s3-website-us-east-1.amazonaws.com/moons/Hybrid_Stepper_Motors_17HA_Series.pdf
+
 There's also a very similar looking one with a 1.8 step angle instead, though I think it might not be from moons - No idea what you mmight need this for, but here's the link anyway:
  - https://www.sinoning.com/product/17ha0403-17n-micro-precision-stepper-motor-42mm-1-8-degree-2-phase-4-wire-stepping-motor-pulley-cnc-3d-printer-diy/?srsltid=AfmBOorO18sDwHBzBifKGoLAdqta7xAn38gJvTo9uFXx6uJQzyDhwtUq
 
