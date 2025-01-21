@@ -1,6 +1,6 @@
 ## MOONS 16HY7401-44S
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/MOONS%2016HY7401-44S/(6)%20MOONS%2016HY7401-44S.jpg)
 
 Yet another pancake stepper from MOONS with an annoying brass pulley on it - finding even a picture of a matching unit was impossible, but I managed to find some specs on an ancient derelict website:
 
