@@ -1,6 +1,6 @@
 ## JAPAN SERVO KP35FM2-044
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/JAPAN%20SERVO%20KP35FM2-044/(7)%20JAPAN%20SERVO%20KP35FM2-044.jpg)
 
 Another stepper motor from JAPAN SERVO - though this one is fortunately bipolar and quite usable in its stock configuration. I was actually able to find two references to this exact model online.
 
