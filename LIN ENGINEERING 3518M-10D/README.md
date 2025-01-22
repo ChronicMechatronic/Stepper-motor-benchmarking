@@ -4,8 +4,9 @@
 
 While LIN ENGINEERING (being a subsidiary of MOONS) generally provides good documentation for their stepper motors, this one sure seems like a customized version of one of their models - the coil parameters of this one don't match up at all with the ones they list on their website for the 3518M - it has a phase resistance of only about 1.0 ohm, which doesn't fit in with any of their other model series either as far as I could tell. Fortunately, the current rating is printed right on the label, so the lack of other specifications didn't impede my testing.
 
-Here's a link to their 3518M series, though I wouldn't rely on any of the electrical specifications: https://www.linengineering.com/products/stepper-motors/hybrid-stepper-motors/3518-series/3518M-07
-And another NEMA 14 of theirs with a similar current rating that I at first thought they might've taken the coil configuration from, but it still has twice the phase resistance of mine... https://www.linengineering.com/products/stepper-motors/hybrid-stepper-motors/3518-series/3518L-15P
+ - Here's a link to their 3518M series, though I wouldn't rely on any of the electrical specifications: https://www.linengineering.com/products/stepper-motors/hybrid-stepper-motors/3518-series/3518M-07
+
+ - And another NEMA 14 of theirs with a similar current rating that I at first thought they might've taken the coil configuration from, but it still has twice the phase resistance of mine... https://www.linengineering.com/products/stepper-motors/hybrid-stepper-motors/3518-series/3518L-15P
 
 There are also exported PDF versions of these sites as a backup in case any of them goes down in the future.
 
