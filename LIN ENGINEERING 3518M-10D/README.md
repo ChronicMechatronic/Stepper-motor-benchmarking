@@ -1,6 +1,6 @@
 ## LIN ENGINEERING 3518M-10D
 
-![image of a stepper motor]()
+![image of a stepper motor](LIN ENGINEERING 3518M-10D/(8) LIN ENGINEERING 3518M.jpg)
 
 While LIN ENGINEERING (being a subsidiary of MOONS) generally provides good documentation for their stepper motors, this one sure seems like a customized version of one of their models - the coil parameters of this one don't match up at all with the ones they list on their website for the 3518M - it has a phase resistance of only about 1.0 ohm, which doesn't fit in with any of their other model series either as far as I could tell. Fortunately, the current rating is printed right on the label, so the lack of other specifications didn't impede my testing.
 
