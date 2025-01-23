@@ -5,7 +5,7 @@
 This stepper is from Sparkfun and readily available on DigiKey - it also has a very high phase resistance of 34 ohms, which is definitely unusual. I don't know why bipolar motors with this winding configuration are even still manufactured, seeing as the general push has been towards low-resistance, actively current-controlled motors for years now, but I guess there are a few niche applications where having the current regulated passively by good old Ohm's law prevails over modern alternatives by enabling a simple H-bridge drive circuitry to be used.
 
  - Here the product page on DigiKey: https://www.digikey.com/en/products/detail/sparkfun-electronics/ROB-09238/5318747?s=N4IgTCBcDaIE4HsBGBaADATjAZgBwgF0BfIA
- - and the datasheet, of course: https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf
+ - And the datasheet, of course: https://www.sparkfun.com/datasheets/Robotics/SM-42BYG011-25.pdf
 
 There are also exported PDF versions for each of these sites as a backup in case any of them goes down in the future.
 
