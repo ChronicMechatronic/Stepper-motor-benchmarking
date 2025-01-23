@@ -1,6 +1,6 @@
 ## MERCURY MOTOR 42BYG011-25
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/MERCURY%20MOTOR%2042BYG011-25/(9)%20MERCURY%20MOTOR%20SM-42BYG011-25.jpg)
 
 This stepper is from Sparkfun and readily available on DigiKey - it also has a very high phase resistance of 34 ohms, which is definitely unusual. I don't know why bipolar motors with this winding configuration are even still manufactured, seeing as the general push has been towards low-resistance, actively current-controlled motors for years now, but I guess there are a few niche applications where having the current regulated passively by good old Ohm's law prevails over modern alternatives by enabling a simple H-bridge drive circuitry to be used.
 
