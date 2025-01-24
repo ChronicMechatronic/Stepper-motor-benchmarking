@@ -1,6 +1,6 @@
 ## WANTAI MOTOR 42BYGHW609-1 
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/WANTAI%20MOTOR%2042BYGHW609-1/(14)%20WANTAI%20STEPPER%2042BYGHW609-1.jpg)
 
 It's a stepper motor aimed at the 3D printing industry. That's all there is to say about it. Low phase resistance, low inductance, high current - it's all pretty standard stuff. The WANTAI MOTOR website lists the specs:
 
