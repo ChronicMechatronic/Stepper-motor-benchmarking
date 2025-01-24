@@ -6,6 +6,7 @@ This stepper motor is clearly from a TRONXY 3D printer, which is why I was all t
 
 That said, here are the few most relevant-looking search results I was able to come up with:
 
+ - https://www.tronxy3d.com/collections/motor/products/sl42sth40-1684a-1-8a-78oz-in-42-stepper-motor
  - https://botland.store/flashforge-replacement-parts/18649-stepper-motor-42shdc1065z-19wt-200-steps-448v-08a-028nm-for-flashforge-adventurer-3-5904422362294.html
  - https://www.tronxy3d.com/products/tronxy-3d-printer-parts-sl42sth60-1684a-motor-with-1-5m-cable?variant=44347991228660
  - https://www.alibaba.com/product-detail/42SHDC3025-24B-stepper-motor-for-eco_1600961608090.html
