@@ -1,6 +1,6 @@
 ## 42HJA440-23 (unknown manufacturer)
 
-![image of a stepper motor]()
+![image of a stepper motor](https://github.com/ChronicMechatronic/Stepper-motor-benchmarking/blob/main/42HJA440-23/(10)%20GENERIC%2042HJA440-25.jpg)
 
 This stepper motor is a total mystery - it looks about as generic as things can get, and the total lack of identifying features other than the part number stamped on the back makes it all the more intriguing to me. But probably it's just another clone of a clone. I'll certainly work fine for a 3D printer or something, with a microstepping performance on par with that of most other modern Chinese low-cost steppers. Since I didn't find a concrete current rating, I theoretically should've established a new one through actual testing, but seeing as these NEMA 17s are all so similar, I basically just guesstimated a value that felt right. Taking the relatively low phase resistance of only 1.5Ω into account, I went with 1.64A, which is definitely as arbitrary as it is to be taken with a grain of salt. In continuous use, I would probably run this motor closer to 1.5A or less, depending on how hot it gets. If you happen to have one of these, please run your own tests; even something simple with an A4988 like I did in the video will easily give you a much more reliable reference and prevent anything from being damaged. That said, I needed a baseline for my testing and couldn't spend another day letting stepper motors run idle in the basement.
 
